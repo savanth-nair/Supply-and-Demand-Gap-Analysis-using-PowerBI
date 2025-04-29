@@ -61,10 +61,6 @@ Use data-backed evidence to plan HR initiatives and future hiring strategies.
 
 🤝 Contributing Feel free to fork the repository, create a feature branch, and submit a pull request. Contributions are always welcome!
 
-📬 Contact 📧 Email: savanthnair611@gmail.com
-🔗 LinkedIn
-📊 Kaggle
 
-📜 License This project is licensed under the MIT License. See LICENSE for details.
 
 🚀 Happy Analyzing!
