@@ -12,148 +12,87 @@ Predictive modeling helps forecast outcomes based on organizational policies.
 
 *Assess employees to let go if the company needs to reduce its workforce.
 
-⚙️ Methodology
+📌 Overview
+The HR Analytics Dashboard is a data-driven solution designed to assist HR management in identifying employee churn, promotion eligibility, and workforce optimization.
+It leverages descriptive, diagnostic, predictive, and prescriptive analytics to enhance workforce-related decision-making.
 
-The project follows the seven stages of HR data collection and analysis:
+🚀 Features
 
-*Perform the HR function
+🔍 Employee Churn Prediction: Identify employees at risk and those eligible for promotion.
 
-*Desire to make a difference
+📊 Data Visualization: Interactive dashboards to analyze HR trends across multiple dimensions (age, geography, experience, service years).
 
-*Organize how HR data is collected
+📍 Employee Demographics: Gender distribution, distance status, job level insights.
 
-*Understand the data
+🧠 Predictive Insights: HR recommendations for workforce planning and retrenchment analysis.
 
-*Take action
+⚡ Real-Time Reporting: Fast, dynamic dashboards built for real-time access and HR decision support.
 
-*Analyze and compare
+🏗️ Tech Stack
 
-*Earn recognition
+Tool: Microsoft Power BI
 
-The analysis methods include:
+Data Processing: Microsoft Excel, Power Query
 
-*Descriptive Analytics
+Data Modeling: DAX (Data Analysis Expressions)
 
-*Diagnostic Analytics
+Visualization: Power BI visual tools (bar charts, pie charts, donut charts, KPI cards, slicers, images)
 
-*Predictive Analytics
+Data Source: HR Baseline Dataset
 
-*Prescriptive Analytics
+📂 Project Structure
 
-🛠 Tool Design
-The HR dashboard is designed around key views:
+plaintext
+Copy
+Edit
+HR-Analytics-Dashboard/
+│── Dataset/              # HR data Excel files
+│── Reports/              # Power BI reports (.pbix)
+│── Screenshots/          # Dashboard snapshots
+│── README.md             # Documentation
+🎯 How to Use
 
-Overall summary
+Clone the Repository:
 
-Geographical distribution
-
-Age distribution
-
-Expertise levels
-
-Joiners and leavers
-
-🗄️ Database and Pre-Processing
-Dataset: HR Dataset
-
-Tools Used: Microsoft Power BI and MS Excel
-
-Data Preprocessing includes:
-
-Importing Data (Excel files)
-
-Using Power Query to:
-
-Convert data types (text, number, date)
-
-Remove unnecessary columns and blanks
-
-Create calculated columns
-
-Aggregate or summarize data
-
-Find and replace text
-
-Unpivot data if required
-
-Implementing Time Intelligence, Aggregation, and Text Filters
-
-Using DAX (Data Analysis Expressions) for data calculations and transformations
-
-📊 Visualizations
-Visualizations created in Power BI:
-
-Bar Charts
-
-Pie Charts
-
-Donut Charts
-
-Column Charts
-
-Cards (KPI indicators)
-
-Icons, Shapes, and Images
-
-Filters and Slicers
-
-🔍 Analysis
-The dashboard provides real-time analysis on:
-
-Promotion eligibility
-
-Service years
-
-Job levels
-
-Distance status
-
-Gender distribution
-
-💡 Insights
-Key insights derived:
-
-Performance grid by various demographics
-
-Employees due vs. not due for promotion
-
-Employees ready for retrenchment
-
-Service years categorization
-
-Gender-based distribution analysis
-
-Job level and distance-based employee segmentation
-
-📈 Recommendations
-Track employment contract status to improve engagement and work environment.
-
-Use data-backed evidence to strategize workforce planning and future HR initiatives.
-
-📝 Conclusion
-HR Analytics improves:
-
-People management (demographics, hiring trends)
-
-Talent acquisition processes
-
-Data-driven decision-making
-
-Implementing HR analytics enhances organizational effectiveness and yields positive returns by optimizing workforce management.
-
-🚀 How to Run the Project
-Download the HR dataset from the provided link.
-
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/HR-Analytics-Dashboard.git
+cd HR-Analytics-Dashboard
 Open Power BI Desktop.
 
-Import the dataset using the Import Data from Excel feature.
+Import the dataset from the Dataset/ folder.
 
-Use Power Query for data transformation.
+Use Power Query to clean, transform, and model the data.
 
-Apply DAX formulas for calculated fields.
+Apply DAX calculations for KPIs and custom measures.
 
-Create dashboard visuals.
+Create interactive visualizations and publish the dashboard.
 
-Customize dashboards using filters, slicers, and KPIs.
+📈 Results & Insights
 
-Publish or share the report for stakeholder access.
+Quick visibility into employee demographics and trends.
+
+Identification of employees eligible for promotion (10+ years without promotion).
+
+Analysis of employees' service years, job levels, and distance from the workplace.
+
+Gender distribution analysis and retrenchment planning support.
+
+Strategic HR recommendations for workforce retention and optimization.
+
+💡 Recommendations
+
+Track employment contract status and engagement metrics.
+
+Use data-backed evidence to plan HR initiatives and future hiring strategies.
+
+🤝 Contributing Feel free to fork the repository, create a feature branch, and submit a pull request. Contributions are always welcome!
+
+📬 Contact 📧 Email: savanthnair611@gmail.com
+🔗 LinkedIn
+📊 Kaggle
+
+📜 License This project is licensed under the MIT License. See LICENSE for details.
+
+🚀 Happy Analyzing!
