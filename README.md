@@ -40,13 +40,6 @@ Visualization: Power BI visual tools (bar charts, pie charts, donut charts, KPI 
 
 Data Source: HR Baseline Dataset
 
-📂 Project Structure
-
-│── Dataset/              # HR data Excel files
-│── Reports/              # Power BI reports (.pbix)
-│── Screenshots/          # Dashboard snapshots
-│── README.md             # Documentation
-
 
 📈 Results & Insights
 
