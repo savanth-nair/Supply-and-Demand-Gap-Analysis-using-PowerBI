@@ -8,36 +8,37 @@ By applying descriptive, diagnostic, predictive, and prescriptive analytics, HR 
 Predictive modeling helps forecast outcomes based on organizational policies.
 
 ❓ Problem Statement
-Identify employees eligible for promotion (those who haven't been promoted in 10+ years).
+*Identify employees eligible for promotion (those who haven't been promoted in 10+ years).
 
-Assess employees to let go if the company needs to reduce its workforce.
+*Assess employees to let go if the company needs to reduce its workforce.
 
 ⚙️ Methodology
+
 The project follows the seven stages of HR data collection and analysis:
 
-Perform the HR function
+*Perform the HR function
 
-Desire to make a difference
+*Desire to make a difference
 
-Organize how HR data is collected
+*Organize how HR data is collected
 
-Understand the data
+*Understand the data
 
-Take action
+*Take action
 
-Analyze and compare
+*Analyze and compare
 
-Earn recognition
+*Earn recognition
 
 The analysis methods include:
 
-Descriptive Analytics
+*Descriptive Analytics
 
-Diagnostic Analytics
+*Diagnostic Analytics
 
-Predictive Analytics
+*Predictive Analytics
 
-Prescriptive Analytics
+*Prescriptive Analytics
 
 🛠 Tool Design
 The HR dashboard is designed around key views:
