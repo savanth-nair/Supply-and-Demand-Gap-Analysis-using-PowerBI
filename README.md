@@ -42,32 +42,11 @@ Data Source: HR Baseline Dataset
 
 📂 Project Structure
 
-plaintext
-Copy
-Edit
-HR-Analytics-Dashboard/
 │── Dataset/              # HR data Excel files
 │── Reports/              # Power BI reports (.pbix)
 │── Screenshots/          # Dashboard snapshots
 │── README.md             # Documentation
-🎯 How to Use
 
-Clone the Repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/HR-Analytics-Dashboard.git
-cd HR-Analytics-Dashboard
-Open Power BI Desktop.
-
-Import the dataset from the Dataset/ folder.
-
-Use Power Query to clean, transform, and model the data.
-
-Apply DAX calculations for KPIs and custom measures.
-
-Create interactive visualizations and publish the dashboard.
 
 📈 Results & Insights
 
